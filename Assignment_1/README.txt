@@ -5,3 +5,6 @@ Takes as an input a "source" array, "destination" array and a number "num". Copi
 ex3:
 Takes as an input an array of doublewords and outputs the average of them from the first cell in the array until the first cell that is zero.
 ex4:
+Takes as an input an array of numbers and the length of the array and returns the longest decending sub-array in the array
+ex5:.
+Takes as an input an array and a src node and dest node. Switches between the src and dest node (only if src comes befor dest).
